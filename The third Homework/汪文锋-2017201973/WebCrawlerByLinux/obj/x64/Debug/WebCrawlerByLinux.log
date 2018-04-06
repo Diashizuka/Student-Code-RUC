@@ -1,0 +1,25 @@
+﻿  Cleaning remote project directory
+  Validating architecture
+  Validating sources
+  Copying sources remotely to '10.43.3.188'
+  Starting remote build
+  Compiling sources:
+  url.cpp
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\url.cpp(22,29): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\url.cpp(56,34): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\url.cpp(61,6): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\url.cpp(67,41): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\url.cpp(71,14): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\url.cpp(73,13): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\url.cpp(77,14): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\url.cpp(91,34): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\url.cpp(96,6): warning : conversion to ‘int’ from ‘std::__cxx11::basic_string<char>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+  WebCrawler.cpp
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\WebCrawler.cpp(43,21): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\WebCrawler.cpp(46,37): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\WebCrawler.cpp(46,68): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\WebCrawler.cpp(66,6): warning : unused variable ‘numx’ [-Wunused-variable]
+  test.cpp
+  finread.cpp
+  Linking objects
+  WebCrawlerByLinux.vcxproj -> C:\Users\diashizuka\Documents\GitHub\Student-Code-RUC\The second Homework\汪文锋-2017201973\WebCrawlerByLinux\bin\x64\Debug\WebCrawlerByLinux.out
